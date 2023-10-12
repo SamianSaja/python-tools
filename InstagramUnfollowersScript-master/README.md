@@ -11,10 +11,3 @@ Simply just run the script as it follows: `python3 instagramUnfollowers.py {user
 ##
 ### Future plans:
 - [ ] Storing all the *followers* in a Trie structure to speed up checking if a *following* is a *follower*
-
-
-##
-### Screenshot:
-<p align="center">
-  <img src = "https://i.imgur.com/XVkKlsy.jpg"/>
-</p>
